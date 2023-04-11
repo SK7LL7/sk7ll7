@@ -1,2 +1,2 @@
-A solo gamedeveloper,
-and a lonely guy.
+A solo gamedeveloper,<br>
+😅and a lonely guy.
