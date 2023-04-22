@@ -1,2 +1,3 @@
 A solo gamedeveloper,<br>
-😅and a lonely guy.
+
+And love's Starwars and Stardew.
