@@ -1,2 +1,2 @@
-👋 A solo gamedeveloper<br>
+👋 A simple gamedeveloper<br>
 
