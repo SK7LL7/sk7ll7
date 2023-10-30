@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/SK7LL7/sk7ll7/assets/126547381/05d98486-8631-4be1-99ee-dbfcaadecb5c)![New Project (1)](https://github.com/SK7LL7/sk7ll7/assets/126547381/3adcae3e-1444-4bd3-8ae0-1b3adc976e52)
-(https://64.media.tumblr.com/c4745f1dabfad30026628c08ddb184a9/399278ed9be8d5e9-10/s1280x1920/95a2b64f1c2075b1ad0baa943a68f1d0dd202dc1.jpg)
+[![MasterHead](https://github.com/SK7LL7/sk7ll7/assets/126547381/05d98486-8631-4be1-99ee-dbfcaadecb5c)
 <h1 align="center">Ahoy!🐟, I'm SK7LL!</h1>
 <h3 align="center">A Simple Game Developer</h3>
 
