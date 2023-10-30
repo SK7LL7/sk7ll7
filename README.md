@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/SK7LL7/sk7ll7/assets/126547381/05d98486-8631-4be1-99ee-dbfcaadecb5c)
 <h1 align="center">Ahoy!🐟, I'm SK7LL!</h1>
 <h3 align="center">A Simple Game Developer</h3>
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.imgur.com/VME37zd.gif)")
 
 <h3 align="left">Socials:</h3>
 <p align="left">
